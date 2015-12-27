@@ -1,0 +1,23 @@
+{
+  "name": "codemirror-helpers",
+  "version": "0.1.0",
+  "description": "A helper api for codemirror",
+  "author": "Brian Takita <brian.takita@gmail.com>",
+  "contributors": [],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btakita/codemirror-helpers"
+  },
+  "bugs": {
+    "url": "https://github.com/btakita/codemirror-helpers/issues"
+  },
+  "keywords": [
+    "codemirror-helpers",
+    "codemirror"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "analyze": true,
+  "license": "Apache"
+}
